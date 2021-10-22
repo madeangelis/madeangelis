@@ -8,7 +8,7 @@
 
 
 
-📫 How to reach me:
+📫  How to reach me:
 
 Email: madeangelis@gmail.com <br/>
 LinkedIn: https://www.linkedin.com/in/martindeangelis/ <br/>
