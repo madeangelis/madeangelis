@@ -9,8 +9,8 @@
 
 📫 How to reach me:
 
-Email: madeangelis@gmail.com \n
-LinkedIn: https://www.linkedin.com/in/martindeangelis/ \n
+Email: madeangelis@gmail.com <br/>
+LinkedIn: https://www.linkedin.com/in/martindeangelis/ <br/>
 Behance: https://www.behance.net/martindeangelis
 <!--
 **madeangelis/madeangelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
