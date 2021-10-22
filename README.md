@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi there, i'm Martín De Angelis 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=madeangelis)](https://github.com/madeangelis/github-readme-stats)
+
+
+📫 How to reach me:
+
+Email: madeangelis@gmail.com
+LinkedIn: https://www.linkedin.com/in/martindeangelis/
+Behance: https://www.behance.net/martindeangelis
 <!--
 **madeangelis/madeangelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
