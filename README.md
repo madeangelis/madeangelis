@@ -1,6 +1,6 @@
 ### Hi there, i'm Martín De Angelis 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=madeangelis)](https://github.com/madeangelis/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=madeangelis&count_private=true)](https://github.com/madeangelis/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=madeangelis&count_private=true)
 
