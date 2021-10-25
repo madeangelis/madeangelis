@@ -1,6 +1,9 @@
 ### Hi there, i'm Martín De Angelis 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=madeangelis&count_private=true&theme=tokyonight)
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=madeangelis&show_icons=true&theme=tokyonight" alt="Martín De Angelis" />
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=madeangelis&count_private=true&theme=tokyonight)
 ](https://github.com/madeangelis/github-readme-stats)
 
 
