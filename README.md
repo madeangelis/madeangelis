@@ -1,13 +1,10 @@
 ### Hi there, i'm Martín De Angelis 👋
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=madeangelis&show_icons=true&theme=tokyonight" alt="Martín De Angelis" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=madeangelis&count_private=true&theme=tokyonight" alt="Martín De Angelis" />
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=madeangelis&count_private=true&theme=tokyonight)
-](https://github.com/madeangelis/github-readme-stats)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madeangelis&layout=compact&theme=tokyonight" alt="Martín De Angelis" />
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madeangelis&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🌱 I’m currently learning:
 
