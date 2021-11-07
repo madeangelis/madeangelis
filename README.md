@@ -8,7 +8,6 @@
 ### 🌱 I’m currently learning:
 
 - Vue
-- React
 
 ### 📫  How to reach me:
 
