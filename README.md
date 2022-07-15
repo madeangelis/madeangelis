@@ -7,7 +7,7 @@
 
 ### 🌱 I’m currently learning:
 
-- Vue
+- React & Vue
 
 ### 📫  How to reach me:
 
