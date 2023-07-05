@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madeangelis&layout=compact&theme=tokyonight" alt="Martín De Angelis" />
 
 
-### 🌱 I’m currently learning:
+### 🌱 I’m currently practicing:
 
-- React & Vue
+- Next.js
 
 ### 📫  How to reach me:
 
